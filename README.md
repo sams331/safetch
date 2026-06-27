@@ -5,7 +5,7 @@ A simple, fast, and rock-solid fetch program.
 2. Enter the cloned repository folder.
 3. Compile with whatever compiler you want. I use GCC: `gcc -o safetch safetch.c`
 
-Or, use the binary in the releases (compiled using GCC)
+Or, use the binary in the releases.
 
 ## How to set a custom ASCII art
 Initially, safetch does not come with any form of ASCII art next to the fetch data, whether it's something decorative or a distro ASCII art. Safetch gives users freedom on what ASCII art to use initially.
